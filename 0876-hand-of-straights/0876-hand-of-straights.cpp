@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
     if (hand.size() % groupSize != 0) {
-        return false; // The total number of cards must be divisible by the group size
+        return false; 
     }
 
     map<int, int> count;
