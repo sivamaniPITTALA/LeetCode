@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
 # Sorting
@@ -39,4 +41,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
+# Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
