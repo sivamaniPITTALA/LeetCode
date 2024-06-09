@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 # Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Sorting
 |  |
 | ------- |
@@ -48,3 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
