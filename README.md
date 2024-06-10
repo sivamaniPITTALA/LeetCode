@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
@@ -66,3 +67,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+# Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
