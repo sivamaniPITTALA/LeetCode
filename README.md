@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 # Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1137-height-checker) |
 # Trie
 |  |
 | ------- |
@@ -54,3 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1137-height-checker) |
