@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0075-sort-colors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
