@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Two Pointers
 |  |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0070-climbing-stairs) |
 # Recursion
 |  |
 | ------- |
@@ -122,3 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0070-climbing-stairs) |
