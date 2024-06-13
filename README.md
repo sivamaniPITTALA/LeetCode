@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 # Trie
 |  |
@@ -155,3 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0584-find-customer-referee](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
