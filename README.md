@@ -150,3 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
