@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 # Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 # Sorting
 |  |
 | ------- |
