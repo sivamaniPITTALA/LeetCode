@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 # Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 # Sorting
 |  |
 | ------- |
