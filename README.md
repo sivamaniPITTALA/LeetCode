@@ -20,12 +20,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 # Two Pointers
 |  |
 | ------- |
