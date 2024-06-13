@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 # Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0070-climbing-stairs) |
 | [1585-the-kth-factor-of-n](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 # Recursion
 |  |
 | ------- |
