@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
+| [0891-score-after-flipping-matrix](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0940-fruit-into-baskets](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1137-height-checker) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
+| [0891-score-after-flipping-matrix](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -164,3 +166,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0891-score-after-flipping-matrix](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+# Matrix
+|  |
+| ------- |
+| [0891-score-after-flipping-matrix](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0891-score-after-flipping-matrix) |
