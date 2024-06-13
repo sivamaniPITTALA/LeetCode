@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0075-sort-colors) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0011-container-with-most-water) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
