@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0133-clone-graph](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0876-hand-of-straights) |
@@ -178,3 +179,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0891-score-after-flipping-matrix) |
+# Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0133-clone-graph) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0133-clone-graph) |
+# Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0133-clone-graph) |
