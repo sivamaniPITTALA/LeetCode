@@ -1,11 +1,24 @@
 class Solution:
     def minIncrementForUnique(self, nums: List[int]) -> int:
-        count =0
         nums.sort()
-        for i in range(1, len(nums)):
-            if nums[i] <= nums[i-1]:
-                diff = nums[i-1] - nums[i] + 1
-                nums[i] += diff
-                count += diff
+        counter = Counter(nums)
+        max_num = max(nums)
+        min_num = min(nums)
+        zero_counted = []
+        for i in range(max_num):
+            if i not in counter and i > min_num:
+                zero_counted.append(i)
+        count = 0
+        indx = 0
+        curr_max = max_num + 1
+        for num in sorted(counter.keys()):
+            while counter[num] > 1 and indx < len(zero_counted):
+                if zero_counted[indx] > num:
+                    count += zero_counted[indx] - num
+                    counter[num] -= 1
+                indx += 1
+            while counter[num] > 1:
+                count += curr_max - num
+                counter[num] -= 1
+                curr_max += 1
         return count
-        
