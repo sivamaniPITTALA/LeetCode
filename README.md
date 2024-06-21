@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1138-grumpy-bookstore-owner](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 # Binary Search
 |  |
 | ------- |
