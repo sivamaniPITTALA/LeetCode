@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1138-grumpy-bookstore-owner](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sivamaniPITTALA/LeetCode/tree/master/0070-climbing-stairs) |
+| [1370-count-number-of-nice-subarrays](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 # Recursion
