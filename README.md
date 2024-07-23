@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
@@ -266,10 +267,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2502-sort-the-people) |
 ## String
 |  |
