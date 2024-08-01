@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
