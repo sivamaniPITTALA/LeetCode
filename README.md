@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sivamaniPITTALA/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -337,4 +338,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sivamaniPITTALA/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/sivamaniPITTALA/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
